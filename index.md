@@ -38,12 +38,12 @@ bio_rdm [@] ed.ac.uk
 
 ### All the useful links from the workshop
 
-The University Research Data Services  
+#### The University Research Data Services  
 [https://www.ed.ac.uk/information-services/research-support/research-data-service](https://www.ed.ac.uk/information-services/research-support/research-data-service)
 
-Inforamtion about available services including centrally run trainings and learning materials.
+Information about available services including centrally run trainings and learning materials.
 
-BioRDM wiki  
+#### BioRDM wiki  
 [https://www.wiki.ed.ac.uk/display/RDMS](https://www.wiki.ed.ac.uk/display/RDMS)
 
 Biology-tailored resources related to data managment.
@@ -51,34 +51,34 @@ Biology-tailored resources related to data managment.
 * List of recommended data repositories
 * Practical guides to Benchling, DataStore, DataVault
 
-DataStore  
+#### DataStore  
 * [https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage)
 *	[https://www.wiki.ed.ac.uk/x/tet_H](https://www.wiki.ed.ac.uk/x/tet_H)
 
 The network file system that MUST BE used for all research data
 
-Sharepoint  
+#### Sharepoint  
 [https://uoe-my.sharepoint.com](https://uoe-my.sharepoint.com)
 
 Collaborative platform, recommended for co-writing documents and presentations
 
-UoE WIKI  
+#### UoE WIKI  
 [https://www.wiki.ed.ac.uk](https://www.wiki.ed.ac.uk)
 
 Free to use web-space, for home, project and personal pages.
 
-DMPOnline  
+#### DMPOnline  
 [https://dmponline.dcc.ac.uk](https://dmponline.dcc.ac.uk)
 
 Tool that helps writing DMPS
 
-Protocols.io  
+#### Protocols.io  
 [https://www.protocols.io/](https://www.protocols.io/)
 
 Repository for storing and publishing laboratories protocols
 
 
-UoE DataShare  
+#### UoE DataShare  
 [https://datashare.is.ed.ac.uk/](https://datashare.is.ed.ac.uk/)
 
 The University respository for sharing public data
