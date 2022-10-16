@@ -29,7 +29,7 @@ bio_rdm [@] ed.ac.uk
 ## Recomended workshop 
 **FAIR in (bio) practice**  
 22-25 November in the afternoons  
-https://edcarp.github.io/2022-11-22_ed-dash_fair-bio-practice/
+[https://edcarp.github.io/2022-11-22_ed-dash_fair-bio-practice/](https://edcarp.github.io/2022-11-22_ed-dash_fair-bio-practice/)
 
 
 ## Materials
@@ -45,8 +45,8 @@ BioRDM wiki
 https://www.wiki.ed.ac.uk/display/RDMS
 
 DataStore  
-•	https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage
-•	https://www.wiki.ed.ac.uk/x/tet_H
+* https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage
+*	https://www.wiki.ed.ac.uk/x/tet_H
 
 Sharepoint  
 https://uoe-my.sharepoint.com
