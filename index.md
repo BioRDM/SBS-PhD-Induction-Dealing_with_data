@@ -34,7 +34,8 @@ bio_rdm [@] ed.ac.uk
 
 ## Materials
 
-** PowerPoint slides can be found [here](add link)
+PowerPoint slides can be found [here](https://github.com/BioRDM/SBS-PhD-Induction-2022/blob/gh-pages/SBS_PhD_Induction-Dealing_with_data-V1.1.pptx)  
+*Click download button to get the file*
 
 ### All the useful links from the workshop
 
