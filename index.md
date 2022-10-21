@@ -31,11 +31,30 @@ bio_rdm [@] ed.ac.uk
 22-25 November in the afternoons  
 [https://edcarp.github.io/2022-11-22_ed-dash_fair-bio-practice/](https://edcarp.github.io/2022-11-22_ed-dash_fair-bio-practice/)
 
+### Other trainings
+
+**ED-DASH**
+https://edcarp.github.io/Ed-DaSH/index.html  
+* statistics (intermediate, high-dimension, ML)
+* command line
+* conda and workflows
+
+**RDS training**
+https://www.ed.ac.uk/is/data-training
+ 
 
 ## Materials
 
 PowerPoint slides can be found [here](https://github.com/BioRDM/SBS-PhD-Induction-2022/blob/gh-pages/SBS_PhD_Induction-Dealing_with_data-V1.1.pptx)  
 *Click download button to get the file*
+
+### Practical recipes and guides:
+* [https://faircookbook.elixir-europe.org/](https://faircookbook.elixir-europe.org/)
+* [https://rdmkit.elixir-europe.org/](https://rdmkit.elixir-europe.org/)
+
+Choosing repositories
+* BioRDM wiki
+* [https://fairsharing.org/](https://fairsharing.org/)
 
 ### All the useful links from the workshop
 
@@ -61,12 +80,14 @@ The network file system that MUST BE used for all research data
 #### Sharepoint  
 [https://uoe-my.sharepoint.com](https://uoe-my.sharepoint.com)
 
-Collaborative platform, recommended for co-writing documents and presentations
+Collaborative platform, recommended for co-writing documents and presentations - no more bouncing emails
 
 #### UoE WIKI  
 [https://www.wiki.ed.ac.uk](https://www.wiki.ed.ac.uk)
 
-Free to use web-space, for home, project and personal pages.
+Free to use web-space, for simple home pages, project pages,  
+organizing files, collaborative documents   
+and even simple ELN 
 
 #### DMPOnline  
 [https://dmponline.dcc.ac.uk](https://dmponline.dcc.ac.uk)
