@@ -5,9 +5,8 @@
 
 ## Dates
 
-* 19th October 2022 13:00
-* 24th October 2022 09:30
-* 24th October 2022 14:00
+* 18th October 2022 09:30
+* 18th October 2022 14:00
 
 Online workshop, Zoom link sent in the registration email.
 
@@ -26,18 +25,7 @@ Online workshop, Zoom link sent in the registration email.
 
 bio_rdm [@] ed.ac.uk
 
-## Recomended workshop 
-**FAIR in (bio) practice**  
-22-25 November in the afternoons  
-[https://edcarp.github.io/2022-11-22_ed-dash_fair-bio-practice/](https://edcarp.github.io/2022-11-22_ed-dash_fair-bio-practice/)
 
-### Other trainings
-
-**ED-DASH**
-https://edcarp.github.io/Ed-DaSH/index.html  
-* statistics (intermediate, high-dimension, ML)
-* command line
-* conda and workflows
 
 **RDS training**
 https://www.ed.ac.uk/is/data-training
@@ -45,7 +33,7 @@ https://www.ed.ac.uk/is/data-training
 
 ## Materials
 
-PowerPoint slides can be found [here](https://github.com/BioRDM/SBS-PhD-Induction-2022/blob/gh-pages/SBS_PhD_Induction-Dealing_with_data-V1.1.pptx)  
+PowerPoint slides can be found [here](https://github.com/BioRDM/SBS-PhD-Induction-2023/blob/gh-pages/SBS_PhD_Induction-Dealing_with_data-V1.1.pptx)  
 *Click download button to get the file*
 
 ### Practical recipes and guides:
