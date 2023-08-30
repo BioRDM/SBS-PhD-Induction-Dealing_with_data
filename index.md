@@ -18,7 +18,7 @@ Online workshop, Zoom link sent in the registration email.
   *  Electronic Lab notebooks
   *  Working with files
 * Introduction to Data Management Planning
-* Active Data Storage 
+* Storage of active data 
 * Data-related resources at the University
  
 ## Contact
