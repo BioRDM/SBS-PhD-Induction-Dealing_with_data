@@ -18,7 +18,6 @@ Online workshop, Zoom link sent in the registration email.
   *  Electronic Lab notebooks
   *  Working with files
 * Introduction to Data Management Planning
-* Storage of active data 
 * Data-related resources at the University
  
 ## Contact
@@ -33,7 +32,9 @@ https://www.ed.ac.uk/is/data-training
 
 ## Materials
 
-PowerPoint slides can be found [here](https://github.com/BioRDM/SBS-PhD-Induction-2023/blob/gh-pages/SBS_PhD_Induction-Dealing_with_data-V1.1.pptx)  
+PowerPoint slides can be found 
+* [Open Science and Data Managment](https://github.com/BioRDM/SBS-PhD-Induction-2023/blob/gh-pages/SBS_PhD_Induction-Dealing_with_data-2023.pptx)
+* [University services](https://github.com/BioRDM/SBS-PhD-Induction-2023/blob/gh-pages/CSE%20Welcome%20Weeks%20-%20Presentation.pptx)  
 *Click download button to get the file*
 
 ### Practical recipes and guides:
