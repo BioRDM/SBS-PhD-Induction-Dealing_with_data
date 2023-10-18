@@ -34,7 +34,7 @@ https://www.ed.ac.uk/is/data-training
 
 PowerPoint slides can be found 
 * [Open Science and Data Managment](https://github.com/BioRDM/SBS-PhD-Induction-2023/blob/gh-pages/SBS_PhD_Induction-Dealing_with_data-2023.pptx)
-* [University services](https://github.com/BioRDM/SBS-PhD-Induction-2023/blob/gh-pages/CSE%20Welcome%20Weeks%20-%20Presentation.pptx)  
+* [University services](https://github.com/BioRDM/SBS-PhD-Induction-2023/blob/gh-pages/CSE%20Welcome%20Weeks%20-%20Presentation.pdf)  
 *Click download button to get the file*
 
 ### Practical recipes and guides:
