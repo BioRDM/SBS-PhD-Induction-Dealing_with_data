@@ -5,10 +5,11 @@
 
 ## Dates
 
-* 18th October 2022 09:30
-* 18th October 2022 14:00
+* 6th November 2024       9:30-12:30
+* 8th November2024        9:30-12:30
+* 15th November 2024      9:30-12:30 
 
-Online workshop, Zoom link sent in the registration email.
+The workshop is online. The Zoom link will be sent closer to the worwkshop date.
 
 ## Content
 
