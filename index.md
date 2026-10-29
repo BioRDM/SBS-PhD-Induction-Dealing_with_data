@@ -2,38 +2,45 @@
 
 ### Induction workshop for PhD students from School of Biological Sciences at the University of Edinburgh
 
+The “Dealing with Data” workshop introduce students to Open Science and FAIR principles and equip them with effective strategies and practical tools for responsible data management throughout the research data life cycle — from data collection to sharing.
+The knowledge and skills acquired help students make their research data as open and reusable as possible, which facilitates data sharing and the long-term preservation of their data at the end of their projects.
 
-## Dates for 2024
+## Dates for 2026
 
-* 6th November 2024       9:30-12:30
-* 8th November2024        9:30-12:30
-* 15th November 2024      9:30-12:30 
+* 26/10/2026 , 9:30-12:30 at Ashworth Honours Room 1, Ashworth Building - for SBS, UoE. 
+ 
+* 28/10/2026, 9:30-12:30 Online training on Teams for SBS, UoE. 
 
-The workshop is online. The Zoom link will be sent closer to the worwkshop date.
+* 26/11/2026, 10:00-13:00 Online training for EastBio cohort 
+
 
 ## Content
 
-* Open Science and FAIR Principles
-* Organising and Documenting Your Data
-  *  Introduction to metadata
-  *  Electronic Lab notebooks
-  *  Working with files
-* Introduction to Data Management Planning
-* Data-related resources at the University (tallk by Digital Research Services team)
- 
-## Contact
+Open Science
+FAIR principles
+Metadata
+Data organization
+Interoperable data
+Research data repositories
+Electronic Lab Notebooks 
+Data Management Plans 
+Research outputs
+Data resources at UoE, Q&A 
+
+ ## Contacts
 
 BioRDM: bio_rdm [@] ed.ac.uk (Dr Livia Scorza, Data team leader)
 
-Digital Research Services: Andre.Vieira [@] ed.ac.uk (Dr Andre Vieira, Research Facilitator of College of Science and Engineering )
+Digital Research Services: https://digitalresearchservices.ed.ac.uk/contact
 
 
 
 ## Materials
 
 PowerPoint slides can be found 
-* [Open Science and Data Management](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/blob/gh-pages/2024/SBS_PhD_Induction-Dealing_with_data-2024.pptx)
-* [University digital research services](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/blob/gh-pages/2024/SBS_PhD_Inductions-DRS.pdf)  
+* [Dealing with data](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/blob/gh-pages/2026/SBS_PhD_Induction-Dealing_with_data-2026.pdf)
+
+8 [Exercise materials](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/tree/gh-pages/2026/Exercise_materials)
 
 *Click download button to get the file*
 
