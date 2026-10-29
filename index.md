@@ -33,8 +33,6 @@ BioRDM: bio_rdm [@] ed.ac.uk (Dr Livia Scorza, Data team leader)
 
 Digital Research Services: https://digitalresearchservices.ed.ac.uk/contact
 
-
-
 ## Materials
 
 PowerPoint slides can be found 
