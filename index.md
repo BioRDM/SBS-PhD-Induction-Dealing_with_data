@@ -16,16 +16,16 @@ The knowledge and skills acquired help students make their research data as open
 
 ## Content
 
-Open Science
-FAIR principles
-Metadata
-Data organization
-Interoperable data
-Research data repositories
-Electronic Lab Notebooks 
-Data Management Plans 
-Research outputs
-Data resources at UoE, Q&A 
+* Open Science  
+* FAIR principles  
+* Metadata  
+* Data organization 
+* Interoperable data 
+* Research data repositories 
+* Electronic Lab Notebooks  
+* Data Management Plans  
+* Research outputs 
+* Data resources at UoE, Q&A   
 
  ## Contacts
 
@@ -40,7 +40,7 @@ Digital Research Services: https://digitalresearchservices.ed.ac.uk/contact
 PowerPoint slides can be found 
 * [Dealing with data](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/blob/gh-pages/2026/SBS_PhD_Induction-Dealing_with_data-2026.pdf)
 
-8 [Exercise materials](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/tree/gh-pages/2026/Exercise_materials)
+* [Exercise materials](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/tree/gh-pages/2026/Exercise_materials)
 
 *Click download button to get the file*
 
@@ -125,7 +125,6 @@ organizing files, collaborative documents and even simple ELN
   [https://www.wiki.ed.ac.uk/display/RDMS/Suggested+data+repositories](https://www.wiki.ed.ac.uk/display/RDMS/Suggested+data+repositories)
 
 * FAIRSharing 
-
   [https://fairsharing.org/](https://fairsharing.org/)
 
   Resource for databases and standards 
