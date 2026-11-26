@@ -1,8 +1,10 @@
 # Dealing with data
 
-### Induction workshop for PhD students from School of Biological Sciences at the University of Edinburgh
+### Induction workshop for PhD students working in Biology / Biomedical Sciences
 
-The “Dealing with Data” workshop introduce students to Open Science and FAIR principles and equip them with effective strategies and practical tools for responsible data management throughout the research data life cycle — from data collection to sharing.
+This workshop was initially designed for students from the School of Biological Sciences at the University of Edinburgh, and further expanded for all students in EastBio Doctoral Training Programme. 
+
+The “Dealing with Data” workshop introduces students to Open Science and FAIR principles and equip them with effective strategies and practical tools for responsible data management throughout the research data life cycle — from data collection to sharing.
 The knowledge and skills acquired help students make their research data as open and reusable as possible, which facilitates data sharing and the long-term preservation of their data at the end of their projects.
 
 ## Dates for 2026
@@ -38,14 +40,13 @@ Digital Research Services: https://digitalresearchservices.ed.ac.uk/contact
 PowerPoint slides can be found 
 * [Dealing with data for University of Edinburgh- School of Biological Sciences](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/blob/gh-pages/2026/SBS_PhD_Induction-Dealing_with_data-2026.pdf)  
 
-* [Dealing with data for EastBio PhD students](
+* [Dealing with data for EastBio PhD students](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/blob/gh-pages/2026/EastBio_PhD_Induction-Dealing_with_data-2026.pdf)  
 
-* [Exercise materials](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/tree/gh-pages/2026/Exercise_materials)
+* [Exercise materials](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/tree/gh-pages/2026/Exercise_materials)  
+
+* [University of Edinburgh Data Resources](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/blob/gh-pages/2026/University_of_Edinburgh_Data_related_resources.pptx)
 
 *Click download button to get the file*
-
-University of Edinburgh Resources from Digital Research Services
-
 
 ### Practical recipes and guides:
 * [https://faircookbook.elixir-europe.org/](https://faircookbook.elixir-europe.org/)
@@ -88,7 +89,7 @@ Collaborative platform, recommended for co-writing documents and presentations -
 Tool that helps writing DMPs
 
 
-#### Lab notebooks
+#### Lab notebooks, protocols, code
 
 * Jupyter notebook
   [https://jupyter.org](https://jupyter.org)
@@ -105,7 +106,7 @@ Tool that helps writing DMPs
 * Github/ GitLab
  [https://github.com/](https://github.com/)
  [https://git.ecdf.ed.ac.uk/](https://git.ecdf.ed.ac.uk/)
-
+For those producing code, use version control!
 
 #### UoE WIKI  
 [https://www.wiki.ed.ac.uk](https://www.wiki.ed.ac.uk)
@@ -131,6 +132,9 @@ organizing files, collaborative documents and even simple ELN
   [https://fairsharing.org/](https://fairsharing.org/)
 
   Resource for databases and standards 
+
+#### Create an ORCID profile  
+https://orcid.org/ 
 
 #### Other training
 * [Version control with Git - self paced course](https://swcarpentry.github.io/git-novice/)
