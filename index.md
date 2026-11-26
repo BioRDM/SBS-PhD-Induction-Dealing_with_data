@@ -36,11 +36,16 @@ Digital Research Services: https://digitalresearchservices.ed.ac.uk/contact
 ## Materials
 
 PowerPoint slides can be found 
-* [Dealing with data](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/blob/gh-pages/2026/SBS_PhD_Induction-Dealing_with_data-2026.pdf)
+* [Dealing with data for University of Edinburgh- School of Biological Sciences](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/blob/gh-pages/2026/SBS_PhD_Induction-Dealing_with_data-2026.pdf)  
+
+* [Dealing with data for EastBio PhD students](
 
 * [Exercise materials](https://github.com/BioRDM/SBS-PhD-Induction-Dealing_with_data/tree/gh-pages/2026/Exercise_materials)
 
 *Click download button to get the file*
+
+University of Edinburgh Resources from Digital Research Services
+
 
 ### Practical recipes and guides:
 * [https://faircookbook.elixir-europe.org/](https://faircookbook.elixir-europe.org/)
